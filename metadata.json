@@ -1,0 +1,6 @@
+{
+  "name": "Picture Guess",
+  "description": "A simple, bug-free English animal picture guessing game for elementary school beginners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
